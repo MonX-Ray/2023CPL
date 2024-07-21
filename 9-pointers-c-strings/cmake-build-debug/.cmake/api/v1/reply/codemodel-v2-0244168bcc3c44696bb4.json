@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "parse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parse-Debug-608242f023d612a93494.json",
+					"name" : "parse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "str_interleaf_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-str_interleaf_1-Debug-44cd8328f1761b56955a.json",
+					"name" : "str_interleaf_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "str_interleaf_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-str_interleaf_2-Debug-108f426d1ed508cf8f6b.json",
+					"name" : "str_interleaf_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strs_cat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strs_cat-Debug-dfb758ce852854d69928.json",
+					"name" : "strs_cat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strs_interleaf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strs_interleaf-Debug-b7c9edb09101aa14dfc0.json",
+					"name" : "strs_interleaf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tokenizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tokenizer-Debug-cb7cd3e67257d7f35519.json",
+					"name" : "tokenizer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug",
+		"source" : "D:/Codes/2023Fall/CPL/9-pointers-c-strings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,5 @@
+add_executable(bsearch bsearch.c)
+add_executable(fifa fifa.c)
+add_executable(split-sort split-sort.c)
+add_executable(polynlist polynlist.c)
+add_executable(bsearch1 bsearch1.c)

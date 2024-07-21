@@ -1,0 +1,15 @@
+
+fc:S3776"TRefactor this function to reduce its Cognitive Complexity from 34 to the 25 allowed.(ø¾Š'
+_c:S134,"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(—ğ™
+dc:S134<"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´Ñë§şÿÿÿÿ
+_c:S134@"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(—ğ™
+_c:S134G"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(œòıÓ
+Mc:S1079"5Add a field width specifier to this "%s" placeholder.(ï‚„­ÿÿÿÿÿ
+lc:S3776e"TRefactor this function to reduce its Cognitive Complexity from 84 to the 25 allowed.(ä˜Ä¢ÿÿÿÿÿ
+ec:S134›"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´Ñë§şÿÿÿÿ
+`c:S134Å"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‚óğ¿
+`c:S134Ô"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¬Æ´†
+oc:S108"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(å¥‡
+Jc:S1066ß"1Merge this "if" statement with the enclosing one.(’Šª—øÿÿÿÿ
+Mc:S52834"5Declared variable-length array (VLA) has tainted size(‡úÙíşÿÿÿÿ
+=c:S3584Q"*Potential leak of memory pointed to by 's'(ä°ñ¸

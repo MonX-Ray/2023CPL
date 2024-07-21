@@ -1,0 +1,8 @@
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/collatz.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/single.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/factorial.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/series.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/Inverse.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/standup.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/2023/2-if-for-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

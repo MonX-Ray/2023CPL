@@ -1,0 +1,15 @@
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/circle.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/Sphere.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/mol.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/admin.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/admin-scanf.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/ascii.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/change.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/pi.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/time.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/JDN.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/gravity.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/equation.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/test.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/2023Fall/CPL/1-types-io/cmake-build-debug/CMakeFiles/rebuild_cache.dir

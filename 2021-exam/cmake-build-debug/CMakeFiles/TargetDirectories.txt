@@ -1,0 +1,5 @@
+D:/Codes/2023/2021-exam/cmake-build-debug/CMakeFiles/sorted.dir
+D:/Codes/2023/2021-exam/cmake-build-debug/CMakeFiles/merge.dir
+D:/Codes/2023/2021-exam/cmake-build-debug/CMakeFiles/recog.dir
+D:/Codes/2023/2021-exam/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/2023/2021-exam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

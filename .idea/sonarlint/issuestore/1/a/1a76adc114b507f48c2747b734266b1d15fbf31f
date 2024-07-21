@@ -1,0 +1,12 @@
+
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ìÈ‡8¤†»³µ1
+mc:S3776
+"TRefactor this function to reduce its Cognitive Complexity from 94 to the 25 allowed.(ø¾Š'8¤†»³µ1
+fc:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(²¾Ÿï8¤†»³µ1
+kc:S1344"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‹ß…Ûüÿÿÿÿ8¤†»³µ1
+fc:S134@"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Õê›Ş8¤†»³µ1
+fc:S134I"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ô¬É£8¤†»³µ1
+kc:S134\"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‹ß…Ûüÿÿÿÿ8¤†»³µ1
+fc:S134h"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Õê›Ş8¤†»³µ1
+fc:S134s"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ô¬É£8¤†»³µ1
+Tc:S1079"5Add a field width specifier to this "%s" placeholder.(±«â£ÿÿÿÿÿ8¤†»³µ1

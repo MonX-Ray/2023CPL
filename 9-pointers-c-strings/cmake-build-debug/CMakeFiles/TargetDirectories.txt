@@ -1,0 +1,8 @@
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/parse.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/strs_interleaf.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/strs_cat.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/tokenizer.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/str_interleaf_1.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/str_interleaf_2.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/2023Fall/CPL/9-pointers-c-strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/brackets.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/buddy.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/cuboid.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/pour.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/rotate.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/stack.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/whac-a-mole.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/wine.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/hyr.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/Goldbach.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug/CMakeFiles/rebuild_cache.dir

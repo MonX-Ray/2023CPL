@@ -1,0 +1,9 @@
+"D:\program\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/program/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Codes\2023 -B D:\Codes\2023\cmake-build-debug
+CMake Error at 11-linkedlist/CMakeLists.txt:1 (add_executable):
+  add_executable cannot create target "josephus" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory "D:/Codes/2023/3-for-a-while".  See documentation for
+  policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,7 @@
+add_executable(palindrome-1 palindrome-1.c)
+add_executable(josephus josephus.c)
+add_executable(flip flip.c)
+add_executable(b-ternary-1 b-ternary-1.c)
+add_executable(b-ternary-2 b-ternary-2.c)
+add_executable(bubble-sort bubble-sort.c)
+add_executable(try_something try_something.c)

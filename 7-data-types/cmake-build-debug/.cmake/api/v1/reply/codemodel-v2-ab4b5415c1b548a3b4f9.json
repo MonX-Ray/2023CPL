@@ -1,0 +1,137 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Goldbach::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Goldbach-Debug-8fb61923135e1779fc19.json",
+					"name" : "Goldbach",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "brackets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-brackets-Debug-729cb3d8dbed0ae03c2a.json",
+					"name" : "brackets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "buddy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-buddy-Debug-61e8c3d088c4612fc03f.json",
+					"name" : "buddy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cuboid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cuboid-Debug-eab15fc9d70a0273bc96.json",
+					"name" : "cuboid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hyr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hyr-Debug-e23bdfc5725391b7d20c.json",
+					"name" : "hyr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pour::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pour-Debug-c4789667a51061011493.json",
+					"name" : "pour",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rotate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotate-Debug-9bed4237f7a57720ea06.json",
+					"name" : "rotate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack-Debug-06c72313c8a9befe1616.json",
+					"name" : "stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "whac-a-mole::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-whac-a-mole-Debug-315b00fecd6c52176001.json",
+					"name" : "whac-a-mole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wine-Debug-d05ba67268a3e40ec792.json",
+					"name" : "wine",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Codes/2023Fall/CPL/7-data-types/cmake-build-debug",
+		"source" : "D:/Codes/2023Fall/CPL/7-data-types"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

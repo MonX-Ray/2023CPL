@@ -1,0 +1,16 @@
+
+7c:S1117"$declaration shadows a local variable(Æè‘ù
+7c:S1117%"$declaration shadows a local variable(Æè‘ù
+<c:S1117/"$declaration shadows a local variable(Âðë×ûÿÿÿÿ
+<c:S11179"$declaration shadows a local variable(œì»ÿûÿÿÿÿ
+fc:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.(ø¾Š'
+Ic:S886/"2Refactor this loop so that it is less error-prone.(Âðë×ûÿÿÿÿ
+Ic:S8869"2Refactor this loop so that it is less error-prone.(œì»ÿûÿÿÿÿ
+tc:S5350D"\Make the type of this variable a pointer-to-const. The current type of "token1" is "char *".(‘Îûšúÿÿÿÿ
+tc:S5350E"\Make the type of this variable a pointer-to-const. The current type of "token2" is "char *".(Ö¨‹Ïùÿÿÿÿ
+ic:S1912D"QReplace this call to the non reentrant function "strtok" by a call to "strtok_r".(‘Îûšúÿÿÿÿ
+ic:S1912E"QReplace this call to the non reentrant function "strtok" by a call to "strtok_r".(Ö¨‹Ïùÿÿÿÿ
+dc:S1912J"QReplace this call to the non reentrant function "strtok" by a call to "strtok_r".(„´‡´
+dc:S1912K"QReplace this call to the non reentrant function "strtok" by a call to "strtok_r".(¶¢†
+Bc:S35180"*Division by a tainted value, possibly zero(…Âã‹øÿÿÿÿ
+=c:S3518:"*Division by a tainted value, possibly zero(ÀÌ¸¦

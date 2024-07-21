@@ -1,0 +1,8 @@
+# ninja log v5
+17	141	7256423390169546	CMakeFiles/josephus.dir/linked.c.obj	c607cdd3e46c20da
+2	113	7256431110906730	CMakeFiles/josephus.dir/josephus.c.obj	17f69271e44cb7b3
+113	242	7256431112161516	josephus.exe	e3c4bc85e6b803dd
+3	199	7256934871143469	CMakeFiles/StackPour.dir/StackPour.c.obj	a39a9c1eb83249c
+199	368	7256934872762803	StackPour.exe	c0bfbc0b86f50e
+115	245	7258894125647192	buddy.exe	7939a03008974166
+2	114	7258894124393469	CMakeFiles/buddy.dir/buddy.c.obj	bf55fc495a3dbbc8
